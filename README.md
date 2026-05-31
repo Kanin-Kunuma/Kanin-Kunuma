@@ -2,7 +2,7 @@
 
 ## 👨‍💻 开发者 | Developer
 
-- 🔭 目前正在探索 **Agent开发**
+- 🔭 目前正在探索： **Agent开发**
 - 🌱 持续学习中：**AI工程化**
 - 💬 欢迎与我交流技术话题
 - 📫 联系方式：**srdd05@outlook.com**
@@ -12,19 +12,19 @@
 ## 📊 GitHub 统计数据
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanin-Kunuma&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanin-Kunuma&theme=dracula" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanin-Kunuma&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kanin-Kunuma&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanin-Kunuma&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kanin-Kunuma&theme=dracula" />
 </div>
 
 ---
 
 ## 🔥 连续贡献统计
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanin-Kunuma&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanin-Kunuma&theme=dracula&hide_border=true)
 
 ---
 
