@@ -1,9 +1,8 @@
 # Hi 👋, I'm Kanin-Kunuma
 
-## 👨‍💻 开发者 | Developer
+## 👨‍💻 Backend and Agent Engineer
 
-- 🔭 目前正在探索： **Agent开发**
-- 🌱 持续学习中：**AI工程化**
+- 🔭 目前正在探索： **Agent开发，大模型应用**
 - 💬 欢迎与我交流技术话题
 - 📫 联系方式：**srdd05@outlook.com**
 
